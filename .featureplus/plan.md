@@ -27,7 +27,7 @@
   - [ ] Create product
   - [ ] Product status
   - [ ] Outsourced products
-- [ ] Quotes and Qoutations
+- [x] Quotes and Qoutations
   - [ ] Create quote
   - [ ] Room-wise quotes
   - [ ] Quote list and filters
